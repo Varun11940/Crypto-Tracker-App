@@ -95,9 +95,6 @@ The cryptocurrency data is updated periodically based on the latest information 
 
 Yes, you can search for cryptocurrencies not only by their names but also by their symbols. The search functionality in the app filters the list of cryptocurrencies based on both their names and symbols, providing a convenient way to find specific cryptocurrencies.
 
-## 🚀 About Me
-
-I'm an enthusiastic Android developer with a passion for crafting elegant solutions. Armed with knowledge in Kotlin, XML, and API integration, I'm eager to contribute to the world of mobile development. As a fresher in software engineering, I bring a fresh perspective and a hunger for learning. I strive to write clean, efficient code and create user-friendly experiences that make a positive impact. Let's build something amazing together!
 
 
 ## Installation
